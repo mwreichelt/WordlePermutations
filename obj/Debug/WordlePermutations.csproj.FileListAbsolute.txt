@@ -1,0 +1,11 @@
+C:\Users\Michael\source\repos\WordlePermutations\obj\Debug\WordlePermutations.csprojAssemblyReference.cache
+C:\Users\Michael\source\repos\WordlePermutations\obj\Debug\WordlePermutations.Form1.resources
+C:\Users\Michael\source\repos\WordlePermutations\obj\Debug\WordlePermutations.Properties.Resources.resources
+C:\Users\Michael\source\repos\WordlePermutations\obj\Debug\WordlePermutations.csproj.GenerateResource.cache
+C:\Users\Michael\source\repos\WordlePermutations\obj\Debug\WordlePermutations.csproj.CoreCompileInputs.cache
+C:\Users\Michael\source\repos\WordlePermutations\bin\Debug\WordlePermutations.exe.config
+C:\Users\Michael\source\repos\WordlePermutations\bin\Debug\WordlePermutations.exe
+C:\Users\Michael\source\repos\WordlePermutations\bin\Debug\WordlePermutations.pdb
+C:\Users\Michael\source\repos\WordlePermutations\obj\Debug\WordlePermutations.exe
+C:\Users\Michael\source\repos\WordlePermutations\obj\Debug\WordlePermutations.pdb
+C:\Users\Michael\source\repos\WordlePermutations\obj\Debug\WordlePermutations.ListForm.resources
